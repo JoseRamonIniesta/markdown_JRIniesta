@@ -10,14 +10,18 @@ Esto es una lista ordenada
 1. Primero
 2. Segundo
 3. Tercero
+
 Esto es una lista desordenada
 - Segundo
 - Primero
 - Tercero
+
 Esto es un enlace [Google](https://www.google.com/)
 ![Esto es una imagen](terminator.jpg)
+
 |ENCABEZADO 1|ENCABEZADO 2|
 |------------|------------|
 |elemento 1.1|elemento 1.2|
 |elemento 1.2|elemento 2.2|
+
 Enlace archivo [esto es mi GITHUB](https://github.com/JoseRamonIniesta/markdown_JRIniesta/blob/main/enlaceprueba.txt)
